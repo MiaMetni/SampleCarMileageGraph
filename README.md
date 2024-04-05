@@ -1,2 +1,1 @@
-# SampleCarMileageGraph
-Sample Car Mileage Graph
+# Instructor Demo
